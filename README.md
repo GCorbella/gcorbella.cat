@@ -2,6 +2,23 @@
 
 Documentacion inicial del proyecto para la web personal de Guille Corbella.
 
+## Desarrollo local
+
+Requiere Node.js 24 o posterior y npm.
+
+```sh
+npm ci
+npm run dev
+```
+
+Abre `http://localhost:3000`. La ruta raíz redirige a `/ca`. También puedes acceder a `/es` y `/en`.
+
+```sh
+npm run lint
+npm run typecheck
+npm run build
+```
+
 ## Objetivo
 
 Construir una web personal profesional que sirva a la vez como:

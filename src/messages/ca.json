@@ -1,0 +1,38 @@
+{
+  "Navigation": {
+    "skipToContent": "Ves al contingut",
+    "mainNavigation": "Navegació principal",
+    "projects": "Projectes",
+    "about": "Perfil",
+    "contact": "Contacte",
+    "language": "Idioma"
+  },
+  "Home": {
+    "role": "Desenvolupador web",
+    "introduction": "Desenvolupo aplicacions web, des de la interfície i les dades fins al desplegament.",
+    "exploreProjects": "Explora els projectes",
+    "profileAndCv": "Perfil i CV",
+    "featured": "Projecte destacat"
+  },
+  "About": {
+    "title": "Sobre mi",
+    "description": "Soc en Guille Corbella, desenvolupador web. Aquí compartiré la meva trajectòria i la meva manera de treballar.",
+    "cv": "Currículum",
+    "cvStatus": "El currículum estarà disponible aquí."
+  },
+  "Projects": {
+    "title": "Projectes",
+    "description": "Projectes de desenvolupament web i les decisions tècniques que els donen forma."
+  },
+  "PortfolioProject": {
+    "title": "gcorbella.cat",
+    "description": "El meu web personal i portafolis, ara en desenvolupament.",
+    "approach": "Enfocament tècnic",
+    "implementation": "Una aplicació amb Next.js i TypeScript, amb rutes pròpies per al català, el castellà i l’anglès. Cada pàgina té contingut i metadades en el seu idioma.",
+    "technologies": "Tecnologies"
+  },
+  "Contact": {
+    "title": "Contacte",
+    "description": "El formulari i les dades de contacte professional estaran disponibles en aquesta pàgina."
+  }
+}
